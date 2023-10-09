@@ -1,5 +1,7 @@
 # PREDICCIÓN DE TENDENCIAS EN LA MOVILIDAD EN CABA
 ## STRAWBERRY TEAM - Ingenias Data Science
+![INGENIAS](https://github.com/ludmilayerfino/initial-project/blob/main/Ingenias%20Logo.png)
+
 | Nombre| Formación de Base|Origen|
 |-------|------------------|------|
 |Ludmila Yerfino|Ingeniera Industrial|Malargüe - Mendoza - Argentina|
@@ -16,6 +18,8 @@ Se tomó la Encuesta de Movilidad Domiciliaria 2018 generada por la Subsecretar�
 Esta encuesta incluye las bases de hogares, personas, viajes, etapas, un diccionario de registros y el cuestionario utilizado.
 
 [Encuesta de Movilidad Domiciliaria](https://data.buenosaires.gob.ar/dataset/encuesta-movilidad-domiciliaria)
+
+![BA DATA](https://github.com/ludmilayerfino/initial-project/blob/main/BA%20Data%20Logo.png)
 
 ## Requerimientos técnicos
 Para poder trabajar en la base de datos que creamos a partir de la fusión de las 3 bases que contenía la encuesta, utilizamos un entorno Anaconda, con Jupyter Notebook como interfaz y debimos hacer uso de las siguientes librerías: Pandas, NumPy, Seaborn, Matplotlib y Scikit-Learn.
