@@ -21,10 +21,4 @@ Esta encuesta incluye las bases de hogares, personas, viajes, etapas, un diccion
 Para poder trabajar en la base de datos que creamos a partir de la fusión de las 3 bases que contenía la encuesta, utilizamos un entorno Anaconda, con Jupyter Notebook como interfaz y debimos hacer uso de las siguientes librerías: Pandas, NumPy, Seaborn, Matplotlib y Scikit-Learn.
 
 ## Tabla de Contenidos
-Dentro del Repositorio principal, encontrarán 2 carpetas o directorios: "Datos", en la que hemos alojado las Bases de Datos con las que hemos trabajado; y "Notebooks", donde alojamos los archivos en los que hemos desarrollado el análisis, las visualizaciones y el modelo predictivo. Por fuera, además de éste detalle introductorio, encontrarán el Diccionario para comprender las nomenclaturas que se utilizaron.   
-| Nombre     | Edad | Ciudad   |
-|------------|------|----------|
-| Juan       | 30   | Madrid   |
-| Ana        | 25   | Barcelona|
-| Pedro      | 35   | Valencia |
-
+Dentro del Repositorio principal, encontrarán 2 carpetas o directorios: "Datos", en la que hemos alojado las Bases de Datos con las que hemos trabajado; y "Notebooks", donde alojamos los archivos en los que hemos desarrollado el análisis, las visualizaciones y el modelo predictivo. Por fuera, además de éste detalle introductorio, encontrarán el Diccionario para comprender las nomenclaturas que se utilizaron.
