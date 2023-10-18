@@ -1,5 +1,5 @@
 # PREDICCIÓN DE TENDENCIAS EN LA MOVILIDAD EN CABA
-## STRAWBERRY TEAM - Ingenias Data Science
+## GRUPO 6 - Ingenias Data Science
 ![INGENIAS](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Ingenias%20Logo.png)
 
 | Nombre| Formación de Base|Origen|
@@ -22,7 +22,10 @@ Esta encuesta incluye las bases de hogares, personas, viajes, etapas, un diccion
 ![BA DATA](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/BA%20Data%20Logo.png)
 
 ## Requerimientos técnicos
-Para poder trabajar en la base de datos que creamos a partir de la fusión de las 3 bases que contenía la encuesta, utilizamos un entorno Anaconda, con Jupyter Notebook como interfaz y debimos hacer uso de las siguientes librerías: Pandas, NumPy, Seaborn, Matplotlib y Scikit-Learn.
+Para poder trabajar en la base de datos que creamos a partir de la fusión de las 3 bases que contenía la encuesta, utilizamos un entorno Anaconda, con Jupyter Notebook como interfaz y debimos hacer uso de las siguientes librerías: Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn y Scipy.
 
 ## Tabla de Contenidos
 Dentro del Repositorio principal, encontrarán 2 carpetas o directorios: "Datos", en la que hemos alojado las Bases de Datos con las que hemos trabajado; y "Notebooks", donde alojamos los archivos en los que hemos desarrollado el análisis, las visualizaciones y el modelo predictivo. Por fuera, además de éste detalle introductorio, encontrarán el Diccionario para comprender las nomenclaturas que se utilizaron.
+
+### WARNINGS
+Se encontrarán notas de alerta en aquellas líneas de código en las que consideramos debemos reveer, ya sea en su planteo, ya en su explicación.
