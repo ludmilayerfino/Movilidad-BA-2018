@@ -6,7 +6,7 @@
 |-------|------------------|------|
 |Ludmila Yerfino|Ingeniera Industrial|Malargüe - Mendoza - Argentina|
 |Marcela Luciana Tobes|Licenciada en Economía|La Plata - Buenos Aires - Argentina|
-|Marcela Karina Salas|Industria del Petróleo|Comodoro Rivadavia - Chubut - Argentina|
+|Marcela Karina Salinas|Industria del Petróleo|Comodoro Rivadavia - Chubut - Argentina|
 |Marcela Adriana Salvattore|Abogada|Corrientes - Corrientes - Argentina|
 
 ## Objetivo
