@@ -1,5 +1,5 @@
-# PREDICCIÓN DE TENDENCIAS EN LA MOVILIDAD EN CABA
-## GRUPO 6 - Ingenias Data Science
+# TENDENCIAS EN LA MOVILIDAD EN CABA
+## GRUPO 6 - FRUTILLITAS - Ingenias Data Science
 ![INGENIAS](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Ingenias%20Logo.png)
 
 | Nombre| Formación de Base|Origen|
@@ -10,7 +10,7 @@
 |Marcela Adriana Salvattore|Abogada|Corrientes - Corrientes - Argentina|
 
 ## Objetivo
-Analizar las tendencias en la movilidad en la Ciudad de Buenos Aires para con esa información poder, mediante la aplicación de modelos predictivos, establecer la proyección para la definición de los flujos de movimiento y en base a ello, diseñar estrategias de abordaje desde la política pública.
+Analizar las tendencias en la movilidad en la Ciudad de Buenos Aires para con esa información poder, mediante la aplicación de modelos de clasificación y más adelante, predictivos, establecer la proyección de los flujos de movimiento y en base a ello, diseñar estrategias de abordaje desde la política pública.
 
 ## Fuentes de Información
 Se tomó la Encuesta de Movilidad Domiciliaria 2018 generada por la Subsecretaría de Planificación de la Movilidad, de la Dirección General de Planificación, Uso y Evaluación, dependiente de la Gerencia Operativa del Observatorio de Movilidad y Seguridad Vial del Gobierno de la Ciudad de Buenos Aires.
