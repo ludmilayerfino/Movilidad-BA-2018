@@ -27,5 +27,13 @@ Para poder trabajar en la base de datos que creamos a partir de la fusión de la
 ## Tabla de Contenidos
 Dentro del Repositorio principal, encontrarán 2 carpetas o directorios: "Datos", en la que hemos alojado las Bases de Datos con las que hemos trabajado; y "Notebooks", donde alojamos los archivos en los que hemos desarrollado el análisis, las visualizaciones y el modelo predictivo. Por fuera, además de éste detalle introductorio, encontrarán el Diccionario para comprender las nomenclaturas que se utilizaron.
 
+| CAMPO | DESCRIPCIÓN | CÓDIGO - VALOR |
+|----------|------------|--------------|
+|<span style="background-color: #0000FF; padding: 2px 4px; border-radius: 4px; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);">Vivienda</span> |Tipo de vivienda particular (observación)|<li>1. Casa</li><li>2. Rancho</li><li>3. Casilla</li><li>4. Departamento PH</li><li>5. Pieza en Inquilinato o Conventillo</li><li>6. Pieza de Hotel Familiar y/o Pensión</li><li>7. Construcción no destinada a vivienda</li><li>22. Otro</li>|
+|Tiene Vehículos Motorizados|Sin incluir motos o ciclomotores ¿Tiene este hogar vehículo/s motorizado?|<li>1. Sí</li><li>2. No</li>|
+|Tiene Motos|¿Tiene este hogar motos o ciclomotores? (que se encuentran en funcionamiento)|<li>1. Sí</li><li>2. No</li>|
+|Tiene Bicis|¿Tiene bicicletas en el hogar?|<li>1. Sí</li><li>2. No</li>|
+|Modo_Desplazamiento|Indica el tipo de viaje según un agrupamiento de los modos utilizados|<li>1. Una etapa en bicicleta</li><li>2. Una etapa a pie</li><li>3. Una etapa en taxi o remisse</li><li>4. Una etapa en transporte público (colectivo, tren o subte/premetro)</li><li>5. Una etapa en automóvil particular o moto/ciclomotor (conductor o acompañante)</li><li>6. Una etapa chárter/combi, bus de la empresa o transporte escolar</li><li>7. Dos o más etapas combinando transporte público (colectivo, tren y/o subte/premetro) y otro modo</li><li>8. Dos o más etapas en transporte público (colectivo, tren y/o subte/premetro)</li><li>9. Otros modo o dos o más etapas combinando modos que excluyen el transporte público (colectivo, tren y/o subte/premetro)</li>
+
 ### WARNINGS
 Se encontrarán notas de alerta en aquellas líneas de código en las que consideramos debemos reveer, ya sea en su planteo, ya en su explicación.
