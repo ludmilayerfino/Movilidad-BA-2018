@@ -1,7 +1,10 @@
-# MOVILIDAD EN EL AMBA CON PERSPECTIVA DE GÉNERO
-## GRUPO 6 - Ingenias Data Science
-![INGENIAS](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Ingenias%20Logo.png)
-![FONDO MUJER](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Fondo%20Mujer.png)
+<h1 align="center">MOVILIDAD EN EL AMBA CON PERSPECTIVA DE GÉNERO</h1>
+
+<p align="center">
+  <img src="https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Fondo%20Mujer.png" alt="Texto alternativo" width="400"/>
+</p>
+
+<h1 align="center">PROGRAMA INGENIAS - Data Science - Grupo 6</h1> 
 
 | Nombre| Formación de Base|Origen|
 |-------|------------------|------|
