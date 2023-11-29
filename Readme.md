@@ -1,6 +1,7 @@
 # MOVILIDAD EN EL AMBA CON PERSPECTIVA DE GÉNERO
 ## GRUPO 6 - Ingenias Data Science
 ![INGENIAS](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Ingenias%20Logo.png)
+![FONDO MUJER](https://github.com/ludmilayerfino/initial-project/blob/main/Datos/Fondo%20Mujer.png)
 
 | Nombre| Formación de Base|Origen|
 |-------|------------------|------|
@@ -17,7 +18,7 @@ Se tomó la Encuesta de Movilidad Domiciliaria 2018 generada por la Subsecretar�
 
 Esta encuesta incluye las bases de hogares, personas, viajes, etapas, un diccionario y el cuestionario utilizado.
 
-##Estructura de las bases de datos trabajadas
+## Estructura de las bases de datos trabajadas
 La muestra se basa en 16.667 hogares, 59.452 viajes y 49.271 personas, de las cuales el 51,3% son mujeres.
 
 [Encuesta de Movilidad Domiciliaria](https://data.buenosaires.gob.ar/dataset/encuesta-movilidad-domiciliaria)
@@ -37,4 +38,4 @@ Dentro del Repositorio principal, encontrarán 2 carpetas o directorios: "Datos"
 [DICCIONARIO EXTENDIDO](https://github.com/ludmilayerfino/Movilidad-BA-2018/blob/main/Diccionario.xlsx)
 
 ## Requerimientos técnicos
-Para poder trabajar en la base de datos que creamos a partir de la fusión de las 3 bases que contenía la encuesta, utilizamos un entorno Anaconda, con Jupyter Notebook como interfaz y debimos hacer uso de las siguientes librerías: Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn y Scipy.
+Para poder trabajar en la base de datos que creamos a partir de la fusión de las 2 bases de interés para los análisis que queríamos realizar, PERSONAS y VIAJES, utilizamos un entorno Anaconda, con Jupyter Notebook como interfaz y debimos hacer uso de las siguientes librerías: Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn y Scipy.
